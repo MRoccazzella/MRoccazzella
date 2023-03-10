@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently developing as a Javascript Full stack Developer MERN Stack
 
-- 💞️ I’m looking for a Junior Developer position to show my sckills and keep knowing more technologies!
+- 💞️ I’m looking for a Junior Developer position to show my skills and keep knowing more technologies!
