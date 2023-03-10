@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MRoccazzella
-- 👀 I want to become a Developer
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking for a Developer Junior position
 
+- 👀 I am a passionate about technology, learning and close to finish my Bachelor of systems information Degree
 
+- 🌱 I’m currently developing as a Javascript Full stack Developer MERN Stack
 
+- 💞️ I’m looking for a Junior Developer position to show my sckills and keep knowing more technologies!
